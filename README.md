@@ -1,1 +1,1 @@
-Small survey app build with ReactJS and Firebase.
+Small survey app built with ReactJS and Firebase.
